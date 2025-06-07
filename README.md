@@ -37,7 +37,7 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/你的GitHub用户名/你的GitHub用户名/output/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://raw.githubusercontent.com/LuBanQAQ/LuBanQAQ/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>
 
 
