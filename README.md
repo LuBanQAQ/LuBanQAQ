@@ -15,8 +15,8 @@
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/C#-239120?style=for-the-badge&logo=csharp&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" /></a>
