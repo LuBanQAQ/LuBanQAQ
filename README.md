@@ -19,25 +19,5 @@
   <a href="#"><img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" /></a>
 </p>
 
----
-
-### 📊 我的 GitHub 数据 (My GitHub Stats)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuBanQAQ&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuBanQAQ&layout=compact&langs_count=6&theme=vue-dark"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/LuBanQAQ/LuBanQAQ/output/github-contribution-grid-snake.svg" alt="snake" />
-</p>
-
----
-
-<p align="center">
-  <em>你说得对</em>
-</p>
